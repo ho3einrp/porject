@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="fa">
+<head>
+<meta charset="utf-8">
+<title>هنرستان شهید دیدگانی</title>
+ <link rel="icon" href="images/favicon.png" type="image/x-icon">
+ <!-- Meta Tags -->
+ <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="وب سایت هنرستان شهیددیدگانی" />
+    <meta name="keywords"content="هنرستان، شهید دیدگانی، کاردانش، فنی، کامپیوتر، برق"/>
+    <!-- Load CSS Files -->
+<link href="styles/mainstyel.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+<div id="wraper">
+<!-- Header -->
+<header id="topheader">
+<header>
+<h5> اداره آموزش و پرورش رحمت آباد و بلوکات</h5>
+<h1>
+ هنرستان فنی و کاردانش
+<span id="didganiword">
+شهید
+</span>
+دیدگانی
+</h1>
+
+<img src="images/header.png" alt="Header Imges"  id="headerimage">
+
+</header>
+<!-- Main Menu -->
+<nav id="menu"> 
+<a href="./index.html">صفحه اصلی</a>
+<a href="" id="suba"> آموزش </a>
+<a href="pages/personel.html">عوامل اجرایی</a>
+<a href="pages/aboutme.html" class="submenu">درباره ما</a>
+</nav>
+<!-- Sub Menu -->
+<div  id="navp">
+<ul>
+<li> <a href="pages/introfield.html" >معرفی رشته ها</a></li>
+<li><a href="pages/download.html" >دانلود</a> </li>
+</ul>
